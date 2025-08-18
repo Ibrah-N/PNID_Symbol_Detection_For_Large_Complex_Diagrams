@@ -46,17 +46,17 @@ Download the trained **GELAN-C model weights** here:
 
 Here are sample detection outputs from the trained model:  
 
-![Detected Symbols](images/img_2.png)  
+![Detected Symbols](images/img_2.jpg)  
 *Example 1 – Symbols detected successfully*  
 
-![Detected Symbols](images/img_3.png)  
+![Detected Symbols](images/img_3.jpg)  
 *Example 2 – Symbols detected successfully*  
 
-![Detected Symbols](images/img_4.png)  
+![Detected Symbols](images/img_4.jpg)  
 *Example 3 – Symbols detected successfully* 
 
-![Detected Symbols](images/img_1.png)  
-*Example 3 – Symbols detected successfully* 
+![Detected Symbols](images/img_1.jpg)  
+*Example 4 – Symbols detected successfully* 
 ---
 
 ## 🚀 Next Milestones  
