@@ -55,9 +55,6 @@ Here are sample detection outputs from the trained model:
 ![Detected Symbols](images/img_4.jpg)  
 *Example 3 – Symbols detected successfully* 
 
-![Detected Symbols](images/img_1.jpg)  
-*Example 4 – Symbols detected successfully* 
----
 
 ## 🚀 Next Milestones  
 
