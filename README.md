@@ -14,8 +14,7 @@ This project was built as a follow-up milestone after the OCR project, with chal
 - ✅ Addressed challenges such as **different symbol styles across projects** and **patch-based image handling**.  
 - ✅ Helped the labeling team by generating **75–80% annotated raw data** in Roboflow-compatible format.  
 - ✅ Trained the **GELAN-C model** on **A4 GPUs for 12+ hours**, achieving highly accurate results.  
-- ✅ The model is now **deployed in production** at [PNID.io](https://pnid.io).  
-- ✅ Offered a **full-time position in Dubai** with complete relocation support due to the project’s professional impact.  
+- ✅ The model is now **deployed in production** at [PNID.io](https://pnid.io).
 
 ---
 
