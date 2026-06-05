@@ -2,7 +2,7 @@
 Deep learning-based symbol detection pipeline with Detection Model, data preprocessing, and production deployment for P&IDs.
 
 
-# 🔍 Symbol Detection with GELAN-C for PNID.io  
+# 🔍 Symbol Detection with GELAN-C for P&IDs
 
 🚀 This repository contains the complete pipeline for **Symbol Detection** developed for the Dubai-based startup. 
 This project was built as a follow-up milestone after the OCR project, with challenges like symbol variations, GPU memory constraints, patch-based image processing, and seamless rejoining of results.  
