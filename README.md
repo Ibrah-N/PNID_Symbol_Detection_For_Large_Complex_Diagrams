@@ -1,10 +1,10 @@
 # Symbol_Detection_For_Large_Complex_Diagrams
-Deep learning-based symbol detection pipeline with GELAN-E, data preprocessing, and production deployment for PNID.io.
+Deep learning-based symbol detection pipeline with Detection Model, data preprocessing, and production deployment for P&IDs.
 
 
 # 🔍 Symbol Detection with GELAN-C for PNID.io  
 
-🚀 This repository contains the complete pipeline for **Symbol Detection** developed for the Dubai-based startup [PNID.io](https://pnid.io).  
+🚀 This repository contains the complete pipeline for **Symbol Detection** developed for the Dubai-based startup. 
 This project was built as a follow-up milestone after the OCR project, with challenges like symbol variations, GPU memory constraints, patch-based image processing, and seamless rejoining of results.  
 
 ---
@@ -14,7 +14,7 @@ This project was built as a follow-up milestone after the OCR project, with chal
 - ✅ Addressed challenges such as **different symbol styles across projects** and **patch-based image handling**.  
 - ✅ Helped the labeling team by generating **75–80% annotated raw data** in Roboflow-compatible format.  
 - ✅ Trained the **GELAN-C model** on **A4 GPUs for 12+ hours**, achieving highly accurate results.  
-- ✅ The model is now **deployed in production** at [PNID.io](https://pnid.io).
+- ✅ The model is now **deployed in production**.
 
 ---
 
