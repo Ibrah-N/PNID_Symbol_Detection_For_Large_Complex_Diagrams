@@ -36,7 +36,7 @@ This repo contains a single Jupyter Notebook which handles the **entire pipeline
 
 ## 🧠 Model & Weights  
 
-**Archetecture**
+**Architecture**
 ![Architecture](images/image.png)  
 
 
