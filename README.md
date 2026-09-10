@@ -36,6 +36,10 @@ This repo contains a single Jupyter Notebook which handles the **entire pipeline
 
 ## 🧠 Model & Weights  
 
+**Archetecture**
+![Architecture](images/image.png)  
+
+
 Download the trained **GELAN-C model weights** here:  
 👉 [Model Link](https://your-model-link-here.com)  
 
